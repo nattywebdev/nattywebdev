@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nattywebdev (real name is Martin)
-- 👀 I’m interested in upgrading from Drupal 7 to BackdropCMS. 
-- 🌱 I’m currently learning how BackdropCMS can ease the pain of my Drupal 7 customers.
+- 👀 I’m interested in using BackdropCMS to make excellent websites. 
+- 🌱 I’m currently migrating Drupal 7 websites to BackdropCMS for my Drupal 7 customers.
 
 <!---
 nattywebdev/nattywebdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
